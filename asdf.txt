@@ -1,0 +1,11 @@
+GIT & GITHUB 
+
+https://git-scm.com/downloads 에서 컴퓨터에 맞는 파일 다운로드
+다운로드 완료 후 명령 프롬프트(cmd) 열어서 사용가능
+git => 깃 사용법 나옴
+git --version => 설치한 깃의 버전 나옴
+git config --global user.name matthewwk21 => 사용자 github 아이디 저장
+git config --glboal user.email matthewwk6@gmail.com => 사용자 이메일 저장
+cd => change directory의 줄임말로 폴더 이동시 사용하는 명령어
+cd C:\GiT => 로컬 디스크(C:)의 GiT 폴더로 이동
+git clone https://github.com/matthewwk21/Testing-Git.git => 해당 주소로 연결된 폴더 내용 클로닝
